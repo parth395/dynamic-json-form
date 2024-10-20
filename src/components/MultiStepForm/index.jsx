@@ -4,7 +4,7 @@ import './MultiStepForm.css';
 const MultiStepForm = ({ formData }) => {
   const [currentStep, setCurrentStep] = useState(0);
   const [formValues, setFormValues] = useState({});
-  const [errors, setErrors] = useState({}); // State to store validation errors
+  const [errors, setErrors] = useState({});
 
   const handleChange = (name, value) => {
     setFormValues({

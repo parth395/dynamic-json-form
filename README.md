@@ -34,7 +34,7 @@ You can download Node.js from [here](https://nodejs.org/).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/multi-step-form.git
+   git clone https://github.com/parth395/dynamic-json-form.git
    ```
 
 2. Navigate to the project directory:
