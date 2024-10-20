@@ -39,7 +39,7 @@ You can download Node.js from [here](https://nodejs.org/).
 2. Navigate to the project directory:
 
    ```bash
-   cd multi-step-form
+   cd dynamic-json-form
    ```
 
 3. Install dependencies:
