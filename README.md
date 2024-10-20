@@ -1,5 +1,3 @@
-Certainly! Here is a sample `README.md` file for your project:
-
 ```markdown
 # Multi-Step Form
 
