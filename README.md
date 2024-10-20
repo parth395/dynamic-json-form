@@ -1,4 +1,3 @@
-```markdown
 # Multi-Step Form
 
 A dynamic multi-step form built using React that allows users to fill out multiple sections of a form, with field validation and smooth navigation between steps.
